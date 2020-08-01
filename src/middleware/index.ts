@@ -8,7 +8,7 @@ import { handleAPIDocs } from "./apiDocs";
 
 export default [
   handleAPIDocs,
-  handleCors,
   handleBodyRequestParsing,
   handleCompression,
+  handleCors,
 ];
